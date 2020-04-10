@@ -1,0 +1,4 @@
+#Fri Mar 27 11:33:41 EET 2020
+base.0=/home/tolunay/Desktop/CODE/React-Native/5_WebServisCagrimlari/WebServis/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

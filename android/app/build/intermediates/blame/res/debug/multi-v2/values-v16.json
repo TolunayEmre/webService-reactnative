@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/tolunay/Desktop/CODE/React-Native/5_WebServisCagrimlari/WebServis/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/tolunay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5f08b5e1e209155fcff5ee846ee71948/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/tolunay/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8de1330526a842bba443cbce6d914cc7/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
